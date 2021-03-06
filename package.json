@@ -1,6 +1,10 @@
 {
   "name": "test",
+<<<<<<< HEAD
   "version": "dev2",
+=======
+  "version": "dev1",
+>>>>>>> develop
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
